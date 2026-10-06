@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.pip-temp/
+data/feedback.csv
+data/section_similarity.npz
+.streamlit/secrets.toml
